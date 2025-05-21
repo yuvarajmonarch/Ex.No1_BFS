@@ -1,7 +1,7 @@
 
 # Ex.No: 1  Implementation of Breadth First Search 
 ### NAME : YUVARAJ B                                                                   
-### REGISTER NUMBER : 212222040186
+### REG NUMBER : 212222040186
 ### AIM: 
 To write a python program to implement Breadth first Search. 
 ### Algorithm:
